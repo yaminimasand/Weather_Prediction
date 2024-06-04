@@ -1,0 +1,504 @@
+Temperature (°C),Humidity (%),Weather
+21,99,Rainy
+25,91,Rainy
+22,91,Rainy
+21,84,Rainy
+37,32,Sunny
+25,60,Rainy
+25,69,Rainy
+18,35,cold
+22,95,Rainy
+38,33,Sunny
+17,35,cold
+16,86,cold
+20,55,cold
+16,80,cold
+15,73,cold
+31,48,Partly Cloudy
+30,41,Partly Cloudy
+33,43,Partly Cloudy
+26,93,Rainy
+17,32,cold
+19,62,cold
+21,79,Rainy
+21,52,Cloudy
+18,73,cold
+39,31,Sunny
+28,42,Partly Cloudy
+16,92,cold
+34,46,Partly Cloudy
+22,67,Rainy
+17,78,cold
+18,89,cold
+18,63,cold
+16,64,cold
+20,30,cold
+24,93,Rainy
+18,51,cold
+26,40,Partly Cloudy
+16,43,cold
+24,89,Rainy
+18,59,cold
+22,55,Cloudy
+37,33,Sunny
+27,43,Partly Cloudy
+27,44,Partly Cloudy
+23,54,Cloudy
+29,46,Partly Cloudy
+27,95,Rainy
+15,82,cold
+21,68,Rainy
+23,80,Rainy
+15,35,cold
+26,96,Rainy
+25,71,Rainy
+31,44,Partly Cloudy
+22,58,Cloudy
+17,62,cold
+17,56,cold
+15,65,cold
+19,58,cold
+24,67,Rainy
+21,86,Rainy
+23,56,Cloudy
+21,84,Rainy
+23,62,Rainy
+22,97,Rainy
+26,95,Rainy
+16,39,cold
+15,34,cold
+19,81,cold
+17,85,cold
+26,44,Partly Cloudy
+22,58,Cloudy
+36,37,Sunny
+17,34,cold
+15,58,cold
+17,76,cold
+19,97,cold
+17,56,cold
+15,65,cold
+19,65,cold
+21,56,Cloudy
+23,98,Rainy
+29,49,Partly Cloudy
+29,40,Partly Cloudy
+24,67,Rainy
+21,76,Rainy
+34,41,Partly Cloudy
+18,42,cold
+19,91,cold
+21,72,Rainy
+27,97,Rainy
+25,66,Rainy
+18,60,cold
+21,80,Rainy
+16,70,cold
+39,30,Sunny
+20,50,cold
+26,65,Rainy
+26,83,Rainy
+21,84,Rainy
+15,69,cold
+15,44,cold
+23,81,Rainy
+17,86,cold
+21,55,Cloudy
+20,70,cold
+22,64,Rainy
+23,92,Rainy
+19,54,cold
+15,67,cold
+26,63,Rainy
+23,83,Rainy
+26,62,Rainy
+21,78,Rainy
+16,58,cold
+17,92,cold
+19,55,cold
+31,49,Partly Cloudy
+16,92,cold
+16,90,cold
+37,30,Sunny
+19,42,cold
+15,80,cold
+15,85,cold
+16,61,cold
+20,78,cold
+18,59,cold
+25,69,Rainy
+31,47,Partly Cloudy
+20,30,cold
+19,95,cold
+16,80,cold
+20,92,cold
+36,33,Sunny
+15,84,cold
+20,61,cold
+17,63,cold
+18,61,cold
+17,36,cold
+21,86,Rainy
+23,88,Rainy
+15,83,cold
+22,96,Rainy
+21,80,Rainy
+22,63,Rainy
+15,64,cold
+25,61,Rainy
+24,83,Rainy
+17,43,cold
+21,84,Rainy
+39,36,Sunny
+16,48,cold
+15,48,cold
+19,89,cold
+19,31,cold
+37,30,Sunny
+23,76,Rainy
+23,98,Rainy
+17,49,cold
+33,40,Partly Cloudy
+17,41,cold
+34,49,Partly Cloudy
+38,34,Sunny
+15,38,cold
+22,88,Rainy
+18,43,cold
+20,38,cold
+22,69,Rainy
+17,54,cold
+39,33,Sunny
+17,55,cold
+16,47,cold
+17,70,cold
+23,63,Rainy
+18,46,cold
+15,66,cold
+18,54,cold
+15,56,cold
+22,82,Rainy
+17,74,cold
+31,46,Partly Cloudy
+15,55,cold
+26,75,Rainy
+36,31,Sunny
+20,82,cold
+20,65,cold
+16,69,cold
+15,65,cold
+15,68,cold
+19,83,cold
+18,51,cold
+17,98,cold
+26,65,Rainy
+28,49,Partly Cloudy
+20,55,cold
+17,95,cold
+23,69,Rainy
+19,46,cold
+38,30,Sunny
+17,54,cold
+15,68,cold
+15,80,cold
+17,41,cold
+32,48,Partly Cloudy
+24,88,Rainy
+17,90,cold
+29,41,Partly Cloudy
+37,37,Sunny
+16,50,cold
+24,99,Rainy
+16,54,cold
+31,41,Partly Cloudy
+15,88,cold
+23,55,Cloudy
+17,52,cold
+39,36,Sunny
+18,88,cold
+27,68,Rainy
+34,47,Partly Cloudy
+15,88,cold
+28,43,Partly Cloudy
+26,89,Rainy
+37,32,Sunny
+16,72,cold
+16,69,cold
+33,44,Partly Cloudy
+39,33,Sunny
+34,45,Partly Cloudy
+24,71,Rainy
+20,95,cold
+25,63,Rainy
+19,59,cold
+15,42,cold
+26,61,Rainy
+26,68,Rainy
+19,75,cold
+21,58,Cloudy
+18,91,cold
+20,91,cold
+27,86,Rainy
+34,45,Partly Cloudy
+17,39,cold
+22,54,Cloudy
+27,78,Rainy
+24,74,Rainy
+33,43,Partly Cloudy
+33,47,Partly Cloudy
+19,66,cold
+23,94,Rainy
+26,82,Rainy
+15,78,cold
+15,97,cold
+29,41,Partly Cloudy
+16,88,cold
+22,99,Rainy
+27,68,Rainy
+15,92,cold
+19,91,cold
+17,33,cold
+26,88,Rainy
+30,49,Partly Cloudy
+19,83,cold
+19,35,cold
+19,78,cold
+30,49,Partly Cloudy
+21,79,Rainy
+18,91,cold
+15,46,cold
+19,32,cold
+19,43,cold
+18,40,cold
+16,85,cold
+24,58,Cloudy
+15,96,cold
+19,71,cold
+18,69,cold
+38,34,Sunny
+30,40,Partly Cloudy
+16,67,cold
+26,99,Rainy
+17,89,cold
+15,77,cold
+15,57,cold
+25,69,Rainy
+19,74,cold
+26,91,Rainy
+17,87,cold
+15,96,cold
+15,85,cold
+22,69,Rainy
+24,69,Rainy
+25,62,Rainy
+27,48,Partly Cloudy
+26,69,Rainy
+16,88,cold
+17,42,cold
+22,71,Rainy
+24,92,Rainy
+16,56,cold
+23,89,Rainy
+18,34,cold
+27,60,Rainy
+18,39,cold
+18,68,cold
+24,60,Rainy
+19,31,cold
+17,95,cold
+31,42,Partly Cloudy
+17,75,cold
+18,46,cold
+21,64,Rainy
+19,92,cold
+17,97,cold
+23,93,Rainy
+31,46,Partly Cloudy
+31,41,Partly Cloudy
+30,46,Partly Cloudy
+39,39,Sunny
+31,43,Partly Cloudy
+18,93,cold
+26,76,Rainy
+23,58,Cloudy
+26,81,Rainy
+21,58,Cloudy
+28,40,Partly Cloudy
+19,55,cold
+17,75,cold
+39,33,Sunny
+34,42,Partly Cloudy
+18,44,cold
+39,31,Sunny
+21,76,Rainy
+24,96,Rainy
+21,85,Rainy
+19,76,cold
+17,88,cold
+37,35,Sunny
+25,48,Partly Cloudy
+25,86,Rainy
+23,87,Rainy
+24,67,Rainy
+26,44,Partly Cloudy
+20,90,cold
+21,64,Rainy
+22,53,Cloudy
+32,44,Partly Cloudy
+16,56,cold
+19,89,cold
+19,75,cold
+20,46,cold
+27,75,Rainy
+15,79,cold
+36,32,Sunny
+21,82,Rainy
+27,89,Rainy
+18,32,cold
+18,49,cold
+20,75,cold
+33,44,Partly Cloudy
+24,67,Rainy
+21,89,Rainy
+17,92,cold
+27,40,Partly Cloudy
+23,93,Rainy
+21,67,Rainy
+15,61,cold
+17,40,cold
+27,74,Rainy
+39,37,Sunny
+15,80,cold
+20,70,cold
+20,75,cold
+26,61,Rainy
+27,83,Rainy
+27,49,Partly Cloudy
+36,31,Sunny
+19,62,cold
+18,55,cold
+17,51,cold
+32,44,Partly Cloudy
+23,78,Rainy
+15,38,cold
+17,37,cold
+22,51,Cloudy
+20,55,cold
+18,41,cold
+32,42,Partly Cloudy
+19,54,cold
+23,74,Rainy
+18,48,cold
+15,82,cold
+27,80,Rainy
+27,99,Rainy
+28,47,Partly Cloudy
+17,51,cold
+20,66,cold
+19,32,cold
+16,90,cold
+24,83,Rainy
+27,78,Rainy
+19,60,cold
+15,53,cold
+15,66,cold
+29,49,Partly Cloudy
+27,95,Rainy
+15,63,cold
+16,65,cold
+17,68,cold
+15,71,cold
+30,41,Partly Cloudy
+37,32,Sunny
+20,47,cold
+19,50,cold
+19,44,cold
+20,55,cold
+17,37,cold
+19,43,cold
+19,66,cold
+24,98,Rainy
+24,67,Rainy
+28,43,Partly Cloudy
+15,46,cold
+27,95,Rainy
+27,64,Rainy
+18,34,cold
+15,94,cold
+22,85,Rainy
+16,65,cold
+22,74,Rainy
+21,52,Cloudy
+16,76,cold
+17,39,cold
+26,43,Partly Cloudy
+15,39,cold
+36,30,Sunny
+19,49,cold
+39,37,Sunny
+19,66,cold
+16,78,cold
+25,73,Rainy
+21,57,Cloudy
+20,35,cold
+16,90,cold
+20,49,cold
+16,66,cold
+32,49,Partly Cloudy
+16,30,cold
+20,88,cold
+15,98,cold
+19,79,cold
+18,58,cold
+24,86,Rainy
+24,72,Rainy
+19,67,cold
+16,52,cold
+20,74,cold
+16,79,cold
+25,46,Partly Cloudy
+22,76,Rainy
+18,75,cold
+22,97,Rainy
+18,62,cold
+38,30,Sunny
+17,60,cold
+17,43,cold
+19,95,cold
+24,99,Rainy
+20,70,cold
+15,77,cold
+19,42,cold
+23,60,Rainy
+26,97,Rainy
+16,48,cold
+28,42,Partly Cloudy
+29,44,Partly Cloudy
+25,89,Rainy
+18,64,cold
+15,73,cold
+17,75,cold
+16,41,cold
+17,72,cold
+25,72,Rainy
+20,44,cold
+17,54,cold
+19,50,cold
+21,81,Rainy
+34,45,Partly Cloudy
+18,59,cold
+17,31,cold
+23,78,Rainy
+18,42,cold
+16,85,cold
+22,90,Rainy
+22,71,Rainy
+26,65,Rainy
+23,83,Rainy
+19,30,cold
+20,73,cold
+16,76,cold
+20,50,cold
+19,38,cold
+15,38,cold
+36,39,Sunny
